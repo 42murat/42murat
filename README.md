@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Murat! 👋
 
-<!--
-**42murat/42murat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a passionate technology enthusiast pursuing a path in the intersection of digital security, peer-to-peer software education, and advanced computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ **Education:** Cybersecurity Student & Cadet at **42 Warsaw** 🇵🇱
+- 🧠 **Focus:** Actively specializing and expanding my knowledge in **Artificial Intelligence (AI)**.
+- 💻 **Environment:** Living inside the Linux Ubuntu terminal 🐧
+- 🎯 **Goal:** Building secure AI models and solving complex engineering challenges.
+
+---
+
+
+
+### 📫 Connect with Me
+- 📧 **Email:** muraattasdemir@gmail.com
